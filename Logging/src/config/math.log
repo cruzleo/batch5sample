@@ -1,0 +1,9 @@
+
+Feb 17, 2023 2:46:11 PM org.ssglobal.training.codes.MathOps displayArray
+INFO: start of method displayArray() with parameters arrData=[10, 20, 30, 40]
+Feb 17, 2023 2:46:11 PM org.ssglobal.training.codes.MathOps displayArray
+INFO: end of method displayArray() with parameters arrData=[10, 20, 30, 40]
+Feb 17, 2023 2:47:44 PM org.ssglobal.training.codes.MathOps div
+INFO: start of method div() with parameters x=10 y=0
+Feb 17, 2023 2:47:45 PM org.ssglobal.training.codes.MathOps div
+SEVERE: division by zero error
